@@ -1,1 +1,1 @@
-# CS6220-Data-Mining-Project(ML)
+# Data-Mining-Project(ML)
